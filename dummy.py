@@ -22,6 +22,8 @@ while(1):
     print(data_in)
     time.sleep(time_to_wait)
 
+# Set up an oscilloscope to measure the speed at which reading and writing occur
+# on the DAQCplate. This may end up determining if this is the correct route.
 
 # There is also an auto logging system designed specifically for the DAQCplate.
 # This requires downloading some more libraries and programs to launch from
