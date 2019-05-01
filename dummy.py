@@ -5,4 +5,4 @@ while(x<255):
     x = x + 1
 
 print 'yes'
-print 'editted on github'
+print 'nope just kidding'
